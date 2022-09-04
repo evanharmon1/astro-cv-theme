@@ -15,12 +15,6 @@ skills:
 - name: Media
   percentage: 50
 languages:
-- language: English
-  percentage: 100
-- language: Spanish
-  percentage: 55
-- language: German
-  percentage: 25
 - language: JavaScript
   percentage: 66
 - language: Python
@@ -51,25 +45,14 @@ educations:
   period: 2010 - 2013
   description: Bachelor Degree
 social:
-- name: Facebook
-  icon: fa-facebook-official
-  link: https://www.facebook.com
-- name: Instagram
-  icon: fa-instagram
-  link: https://www.instagram.com
-- name: Snapchat
-  icon: fa-snapchat
-  link: https://www.snapchat.com
-- name: Pinterest
-  icon: fa-pinterest-p
-  link: https://www.pinterest.fr
 - name: Twitter
   icon: fa-twitter
-  link: https://twitter.com
+  link: https://twitter.com/EvanHarmon
 - name: Linkedin
   icon: fa-linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/evanharmon1/
+- name: GitHub
+  icon: fa-github
+  link: https://github.com/evanharmon1
 
 ---
-
-# hello
