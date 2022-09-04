@@ -9,6 +9,7 @@ import Experience from '../components/Experience.astro';
 import Education from '../components/Education.astro';
 import Social from '../components/Social.astro';
 import site from '../config.json';
+import Form from '../components/Form.astro';
 const { frontmatter } = Astro.props;
 ---
 <!DOCTYPE html>
@@ -76,6 +77,9 @@ const { frontmatter } = Astro.props;
     </div>
     
   <!-- End Grid -->
+  </div>
+  <div>
+    <Form name={frontmatter.name}/>
   </div>
   
   <!-- End Page Container -->
