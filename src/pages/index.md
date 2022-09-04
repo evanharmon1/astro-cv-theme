@@ -2,7 +2,7 @@
 layout: "../layouts/Layout.astro"
 name: Evan Harmon
 image: "./undraw_programming_re_kg9v.svg"
-function: DevOps Engineer
+function: DevOps Engineer Pro
 address: Kansas City, MO
 email: evan@evanharmon.com
 skills:
@@ -54,4 +54,5 @@ social:
 - name: GitHub
   icon: fa-github
   link: https://github.com/evanharmon1
+
 ---
