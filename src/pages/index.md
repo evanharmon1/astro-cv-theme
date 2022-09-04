@@ -2,10 +2,9 @@
 layout: "../layouts/Layout.astro"
 name: Evan Harmon
 image: "./undraw_programming_re_kg9v.svg"
-function: Designer
-address: London, UK
-email: ex@mail.com
-telephone: "1224435534"
+function: DevOps Engineer
+address: Kansas City, MO
+email: evan@evanharmon.com
 skills:
 - name: Adobe Photoshop
   percentage: 90
