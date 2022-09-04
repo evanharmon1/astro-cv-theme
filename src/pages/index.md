@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Layout.astro"
-name: Jane Doe
-image: "./avatar_hat.jpg"
+name: Evan Harmon
+image: "./undraw_programming_re_kg9v.svg"
 function: Designer
 address: London, UK
 email: ex@mail.com
@@ -22,6 +22,10 @@ languages:
   percentage: 55
 - language: German
   percentage: 25
+- language: JavaScript
+  percentage: 66
+- language: Python
+  percentage: 67
 experiences:
 - experience: Front End Developer / w3schools.com
   period: Jan 2015
