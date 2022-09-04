@@ -54,5 +54,4 @@ social:
 - name: GitHub
   icon: fa-github
   link: https://github.com/evanharmon1
-
 ---
